@@ -23,6 +23,8 @@ I prototype fast and validate early — exploring emerging AI frameworks and LLM
 
 ## Selected portfolio
 
+End-to-end architecture and hands-on reference implementations spanning AI, cloud, data, integration, and enterprise modernization.
+
 ### ⭐ Pharmacy Agentic AI Platform
 End-to-end healthcare/PBM reference implementation demonstrating LangGraph orchestration, RAG, Kafka, guardrails, HITL, cloud architecture, evaluation, and DevSecOps.
 
