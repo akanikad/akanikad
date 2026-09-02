@@ -14,7 +14,7 @@ I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experienc
 
 ## AI Innovation & Experimentation
 
-I prototype fast and validate early — exploring emerging agent frameworks and LLM capabilities before they’re production-ready.
+I prototype fast and validate early — exploring emerging AI frameworks and LLM capabilities before they’re production-ready.
 
 - Rapid POC development for agentic and autonomous AI concepts
 - Framework evaluation across LangGraph, CrewAI, AutoGen, and OpenAI Agents SDK
