@@ -13,6 +13,15 @@ I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experienc
 - **Automation:** RPA and intelligent workflow automation
 - **Architecture Leadership:** DDD, reference architectures, buy-vs-build, modernization roadmaps, POCs
 
+## AI Innovation & Experimentation
+
+I prototype fast and validate early — exploring emerging agent frameworks and LLM capabilities before they’re production-ready.
+
+- Rapid POC development for agentic and autonomous AI concepts
+- Framework evaluation across LangGraph, CrewAI, AutoGen, and OpenAI Agents SDK
+- Exploring beyond RAG: multi-agent coordination, autonomous tool use, and agent-to-agent handoff
+- Independent experiments beyond day-to-day delivery work (see `experiments/` in the flagship repo below)
+
 ## Selected portfolio
 
 ### ⭐ Pharmacy Agentic AI Platform
