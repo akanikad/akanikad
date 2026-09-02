@@ -21,6 +21,15 @@ I prototype fast and validate early — exploring emerging AI frameworks and LLM
 - Exploring beyond RAG: multi-agent coordination, autonomous tool use, and agent-to-agent handoff
 - Independent experiments beyond day-to-day delivery work (see `experiments/` in the flagship repo below)
 
+## From Technology to Business Value
+
+I connect emerging technology with measurable business outcomes — translating complex business challenges into practical architectures, prototypes, and transformation roadmaps.
+
+- Business problem → technical architecture → working POC → production roadmap
+- Technology evaluation based on business value, feasibility, risk, cost and scalability
+- Executive-level communication of complex AI and technology concepts
+- Architecture recommendations grounded in adoption, security, governance and operational readiness
+
 ## Selected portfolio
 
 End-to-end architecture and hands-on reference implementations spanning AI, cloud, data, integration, and enterprise modernization.
