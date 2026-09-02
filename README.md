@@ -1,4 +1,4 @@
-# Cloud & AI Architect | Enterprise Modernization | Agentic AI | Healthcare
+# Cloud & AI Architect | Enterprise Modernization | Agentic AI | GenAI
 
 I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experience designing and delivering enterprise technology solutions across cloud, data, AI/ML, GenAI, automation, integration, and modernization.
 
