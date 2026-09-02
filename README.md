@@ -2,16 +2,15 @@
 
 I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experience designing and delivering enterprise technology solutions across cloud, data, AI/ML, GenAI, automation, integration, and modernization.
 
-## What I focus on
+## What I Focus On
 
-- **Agentic AI & GenAI:** LangGraph, RAG, tool calling, model strategy, evaluation, guardrails, HITL
-- **Cloud Architecture:** AWS, Azure, GCP, cloud-native modernization
-- **Healthcare:** Pharmacy / PBM workflows, HL7/FHIR, HIPAA-aware architecture
-- **Integration:** Apache Kafka, APIs, event-driven architecture
-- **Data & AI/ML:** Databricks, BigQuery, Snowflake, PySpark, TensorFlow, PyTorch
-- **DevSecOps:** GitHub, CI/CD, Terraform, Docker, Kubernetes
-- **Automation:** RPA and intelligent workflow automation
-- **Architecture Leadership:** DDD, reference architectures, buy-vs-build, modernization roadmaps, POCs
+- **AI & GenAI:** Agentic AI, LLM applications, RAG, multi-agent systems, prompt engineering, evaluation & observability
+- **Cloud Architecture:** AWS, Azure & GCP; cloud-native, Kubernetes, serverless, data & AI platforms
+- **Enterprise Architecture:** End-to-end solution architecture across application, data, integration, cloud & AI layers
+- **Data & Integration:** Data platforms, Databricks, BigQuery, Snowflake, PySpark, Kafka, APIs & event-driven architectures
+- **AI Engineering:** Python, LangChain, LangGraph, LlamaIndex, OpenAI, Azure AI, Amazon Bedrock & Vertex AI
+- **DevSecOps & Security:** CI/CD, Terraform, Docker, Kubernetes, observability, IAM & secure AI patterns
+- **Innovation & Transformation:** Rapid prototyping, technology evaluation, POCs, modernization strategies & AI-enabled business transformation
 
 ## AI Innovation & Experimentation
 
