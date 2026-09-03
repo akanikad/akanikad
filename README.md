@@ -5,10 +5,12 @@ I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experienc
 ## What I Focus On
 
 * **AI & GenAI:** Agentic AI, LLM applications, RAG, multi-agent systems, prompt engineering, evaluation & observability; OpenAI, Anthropic, Azure AI, Amazon Bedrock & Vertex AI
+* **AI Engineering & Frameworks:** Python, LangChain, LangGraph, LlamaIndex, Hugging Face, TensorFlow, PyTorch and modern ML/GenAI frameworks
 * **Cloud Architecture:** AWS, Azure & GCP; cloud-native architectures, Kubernetes, Docker, serverless and AI platforms
 * **Enterprise Architecture:** End-to-end solution architecture across application, data, integration, cloud and AI layers
 * **Data & Integration:** Databricks, BigQuery, Snowflake, PySpark, Kafka, APIs, microservices and event-driven architectures
-* **AI Engineering:** Python, LangChain, LangGraph, LlamaIndex, Hugging Face and ML frameworks
+* **Application Engineering:** Java, .NET, C#, C/C++ and enterprise application development
+* **Automation & RPA:** Intelligent automation, RPA strategy, workflow transformation and automation platforms including Automation Anywhere, UiPath and Blue Prism
 * **DevSecOps & Security:** CI/CD, Terraform, GitHub, observability, IAM and secure AI patterns
 * **Innovation & Transformation:** Rapid prototyping, technology evaluation, POCs, modernization strategies and AI-enabled business transformation
 
