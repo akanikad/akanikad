@@ -14,12 +14,14 @@ I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experienc
 
 ## AI Innovation & Experimentation
 
-I prototype fast and validate early — exploring emerging AI frameworks and LLM capabilities before they’re production-ready.
+I prototype quickly and validate early — exploring emerging agentic AI patterns, LLM capabilities, and AI frameworks before production adoption.
 
-- Rapid POC development for agentic and autonomous AI concepts
-- Framework evaluation across LangGraph, CrewAI, AutoGen, and OpenAI Agents SDK
-- Exploring beyond RAG: multi-agent coordination, autonomous tool use, and agent-to-agent handoff
-- Independent experiments beyond day-to-day delivery work (see `experiments/` in the flagship repo below)
+* Rapid POC development for agentic and autonomous AI concepts
+* Multi-agent orchestration, task decomposition, and agent-to-agent handoff
+* Framework evaluation across LangGraph, CrewAI, AutoGen, and OpenAI Agents SDK
+* LLM experimentation including model routing, tool use, and workflow orchestration
+* Evaluation of AI quality, observability, cost, latency, and production readiness
+* Independent hands-on experiments beyond day-to-day delivery work (see `experiments/`)
 
 ## From Technology to Business Value
 
