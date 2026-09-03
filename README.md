@@ -4,13 +4,13 @@ I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experienc
 
 ## What I Focus On
 
-- **AI & GenAI:** Agentic AI, LLM applications, RAG, multi-agent systems, prompt engineering, evaluation & observability
-- **Cloud Architecture:** AWS, Azure & GCP; cloud-native, Kubernetes, serverless, data & AI platforms
-- **Enterprise Architecture:** End-to-end solution architecture across application, data, integration, cloud & AI layers
-- **Data & Integration:** Data platforms, Databricks, BigQuery, Snowflake, PySpark, Kafka, APIs & event-driven architectures
-- **AI Engineering:** Python, LangChain, LangGraph, LlamaIndex, OpenAI, Azure AI, Amazon Bedrock & Vertex AI
-- **DevSecOps & Security:** CI/CD, Terraform, Docker, Kubernetes, observability, IAM & secure AI patterns
-- **Innovation & Transformation:** Rapid prototyping, technology evaluation, POCs, modernization strategies & AI-enabled business transformation
+* **AI & GenAI:** Agentic AI, LLM applications, RAG, multi-agent systems, prompt engineering, evaluation & observability; OpenAI, Anthropic, Azure AI, Amazon Bedrock & Vertex AI
+* **Cloud Architecture:** AWS, Azure & GCP; cloud-native architectures, Kubernetes, Docker, serverless and AI platforms
+* **Enterprise Architecture:** End-to-end solution architecture across application, data, integration, cloud and AI layers
+* **Data & Integration:** Databricks, BigQuery, Snowflake, PySpark, Kafka, APIs, microservices and event-driven architectures
+* **AI Engineering:** Python, LangChain, LangGraph, LlamaIndex, Hugging Face and ML frameworks
+* **DevSecOps & Security:** CI/CD, Terraform, GitHub, observability, IAM and secure AI patterns
+* **Innovation & Transformation:** Rapid prototyping, technology evaluation, POCs, modernization strategies and AI-enabled business transformation
 
 ## AI Innovation & Experimentation
 
