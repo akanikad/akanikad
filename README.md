@@ -1,6 +1,6 @@
 # Cloud & AI Architect | Enterprise Modernization | Agentic AI | GenAI
 
-I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experience designing and delivering **end-to-end enterprise solutions** across cloud, data, AI/ML, GenAI, automation, integration, and digital modernization, with a hands-on focus on **prototyping, innovation, and turning emerging technologies into scalable solutions**.
+I am a **Cloud & AI Architect / Solution Architect** with 20+ years of experience designing, delivering, and **solutioning enterprise technology transformations** across cloud, data, AI/ML, GenAI, automation, integration, and digital modernization. My experience spans **hands-on architecture and prototyping, product ownership, technology innovation, and customer-facing presales**, translating complex business challenges into scalable solutions and measurable outcomes.
 
 ## What I Focus On
 
