@@ -23,14 +23,17 @@ I prototype quickly and validate early — exploring emerging agentic AI pattern
 * Evaluation of AI quality, observability, cost, latency, and production readiness
 * Independent hands-on experiments beyond day-to-day delivery work (see `experiments/`)
 
-## From Technology to Business Value
+## Enterprise Solutioning & Business Transformation
 
-I connect emerging technology with measurable business outcomes — translating complex business challenges into practical architectures, prototypes, and transformation roadmaps.
+I bridge **business strategy, technology architecture, and execution** — translating complex business challenges into practical solutions, prototypes, and scalable transformation roadmaps.
 
-- Business problem → technical architecture → working POC → production roadmap
-- Technology evaluation based on business value, feasibility, risk, cost and scalability
-- Executive-level communication of complex AI and technology concepts
-- Architecture recommendations grounded in adoption, security, governance and operational readiness
+- Customer-facing **presales, technical discovery, solution architecture, and proposal development**
+- Translate business challenges into **AI, cloud, data, automation, and integration solutions**
+- **Product ownership** across technology and automation initiatives, from problem definition through delivery and adoption
+- Managed a **$40M global technology portfolio**, balancing investment, delivery, resources, and business priorities
+- Develop business cases and **value/ROI-driven technology recommendations**
+- Rapidly evaluate and prototype emerging technologies before production adoption
+- Partner across business, product, engineering, and architecture teams to drive **technology adoption and measurable outcomes**
 
 ## Selected portfolio
 
